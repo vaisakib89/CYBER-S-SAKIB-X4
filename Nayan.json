@@ -9,16 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "CYBER-SAKIB",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
-    "",
-    "100000959749712"
+    "100090445581185",
+    "100000959749712",
+    "61576554697089"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "100090445581185",
+    "61576554697089"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
